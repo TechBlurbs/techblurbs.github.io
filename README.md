@@ -1,2 +1,2 @@
 # techblurbs.github.io
-TechBlurbs Website
+TechBlurbs Website.
